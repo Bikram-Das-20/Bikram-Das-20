@@ -10,7 +10,12 @@ I love building projects, learning new technologies, and sharing knowledge. 🌱
 ![HTML5](https://img.icons8.com/color/48/html-5--v1.png) 
 ![CSS3](https://img.icons8.com/color/48/css3.png) 
 ![JavaScript](https://img.icons8.com/color/48/javascript.png) 
-![Python](https://img.icons8.com/color/48/python.png)
+![Python](https://img.icons8.com/color/48/python.png) <br>
+## 🌐 Connect with Me
+- 📧 Email: bikramdas6077@gmail.com <br>
+✨ *"Code, Learn, Share, Repeat."* ✨
+
+
 
 
 
